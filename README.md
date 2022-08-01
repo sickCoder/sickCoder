@@ -31,7 +31,7 @@ public class GitHubUser {
 ```
 ## About me
 
-My name is Alexandre. I'm currently a student in DevOps applications conception and development at [Simplon.co](https://en.simplon.co/). I started to code at university back to 2012. I mainly learnt Java, C and a bit of HTML and CSS.
+My name is Alexandre. I'm currently a student in applications conception and development using DevOps methodology at [Simplon.co](https://en.simplon.co/). I started to code at university back to 2012. I mainly learnt Java, C and a bit of HTML and CSS.
 
 ## 📚 Learning list
 
