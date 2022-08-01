@@ -23,7 +23,7 @@ public class GitHubUser {
 	public void printGitHubUser() {
 		System.out.println(firstName+" "+lastName);
 		System.out.println("From : " + country);
-		System.out.println("Coding langagues : ");
+		System.out.println("Coding languages : ");
 		for (int i = 0; i < codingLanguages.length; i++)
 			System.out.println("- " + codingLanguages[i]);
 	}
